@@ -25,9 +25,9 @@ public class Interactor : MonoBehaviour
     private void LookForInteractables()
     {
         Ray ray = camera.ViewportPointToRay(new Vector3(0.5F, 0.5F, 0));
-        Debug.DrawRay(ray.origin, ray.direction * 5f, Color.blue);
+        Debug.DrawRay(ray.origin, ray.direction * 2f, Color.blue);
         RaycastHit hit;
-        var result = Physics.Raycast(ray, out hit, 5f);
+        var result = Physics.Raycast(ray, out hit, 2f);
         if (!result)
         {
             interactableLookingAt = null;

@@ -1,0 +1,2102 @@
+fileFormatVersion: 2
+guid: 1917edf2d24c7d1418f78db9451d5869
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bend1Handle
+    100002: Charcii:Character:Head
+    100004: Charcii:Character:Hips
+    100006: Charcii:Character:LeftArm
+    100008: Charcii:Character:LeftFoot
+    100010: Charcii:Character:LeftForeArm
+    100012: Charcii:Character:LeftHand
+    100014: Charcii:Character:LeftLeg
+    100016: Charcii:Character:LeftShoulder
+    100018: Charcii:Character:LeftToeBase
+    100020: Charcii:Character:LeftUpLeg
+    100022: Charcii:Character:Neck
+    100024: Charcii:Character:pCube3
+    100026: Charcii:Character:pCube4
+    100028: Charcii:Character:pCube5
+    100030: Charcii:Character:QuickRigCharacter_Guides
+    100032: Charcii:Character:Reference
+    100034: Charcii:Character:RightArm
+    100036: Charcii:Character:RightFoot
+    100038: Charcii:Character:RightForeArm
+    100040: Charcii:Character:RightHand
+    100042: Charcii:Character:RightLeg
+    100044: Charcii:Character:RightShoulder
+    100046: Charcii:Character:RightToeBase
+    100048: Charcii:Character:RightUpLeg
+    100050: Charcii:Character:Spine
+    100052: Charcii:Character:Spine1
+    100054: Charcii:Character:Spine2
+    100056: Charcii:Character_04:Head
+    100058: Charcii:Character_04:Hips
+    100060: Charcii:Character_04:LeftArm
+    100062: Charcii:Character_04:LeftFoot
+    100064: Charcii:Character_04:LeftForeArm
+    100066: Charcii:Character_04:LeftHand
+    100068: Charcii:Character_04:LeftLeg
+    100070: Charcii:Character_04:LeftShoulder
+    100072: Charcii:Character_04:LeftToeBase
+    100074: Charcii:Character_04:LeftUpLeg
+    100076: Charcii:Character_04:Neck
+    100078: Charcii:Character_04:QuickRigCharacter_Guides
+    100080: Charcii:Character_04:QuickRigCharacter_Head
+    100082: Charcii:Character_04:QuickRigCharacter_Hips
+    100084: Charcii:Character_04:QuickRigCharacter_LeftArm
+    100086: Charcii:Character_04:QuickRigCharacter_LeftFoot
+    100088: Charcii:Character_04:QuickRigCharacter_LeftForeArm
+    100090: Charcii:Character_04:QuickRigCharacter_LeftHand
+    100092: Charcii:Character_04:QuickRigCharacter_LeftLeg
+    100094: Charcii:Character_04:QuickRigCharacter_LeftShoulder
+    100096: Charcii:Character_04:QuickRigCharacter_LeftToeBase
+    100098: Charcii:Character_04:QuickRigCharacter_LeftUpLeg
+    100100: Charcii:Character_04:QuickRigCharacter_Neck
+    100102: Charcii:Character_04:QuickRigCharacter_Reference
+    100104: Charcii:Character_04:QuickRigCharacter_RightArm
+    100106: Charcii:Character_04:QuickRigCharacter_RightFoot
+    100108: Charcii:Character_04:QuickRigCharacter_RightForeArm
+    100110: Charcii:Character_04:QuickRigCharacter_RightHand
+    100112: Charcii:Character_04:QuickRigCharacter_RightLeg
+    100114: Charcii:Character_04:QuickRigCharacter_RightShoulder
+    100116: Charcii:Character_04:QuickRigCharacter_RightToeBase
+    100118: Charcii:Character_04:QuickRigCharacter_RightUpLeg
+    100120: Charcii:Character_04:QuickRigCharacter_Spine
+    100122: Charcii:Character_04:QuickRigCharacter_Spine1
+    100124: Charcii:Character_04:QuickRigCharacter_Spine2
+    100126: Charcii:Character_04:Reference
+    100128: Charcii:Character_04:RightArm
+    100130: Charcii:Character_04:RightFoot
+    100132: Charcii:Character_04:RightForeArm
+    100134: Charcii:Character_04:RightHand
+    100136: Charcii:Character_04:RightLeg
+    100138: Charcii:Character_04:RightShoulder
+    100140: Charcii:Character_04:RightToeBase
+    100142: Charcii:Character_04:RightUpLeg
+    100144: Charcii:Character_04:Spine
+    100146: Charcii:Character_04:Spine1
+    100148: Charcii:Character_04:Spine2
+    100150: //RootNode
+    100152: Floor
+    100154: Floor2
+    100156: Grill:Bun_Top1
+    100158: Grill:Bun_Top2
+    100160: Grill:Burger10
+    100162: Grill:Burger11
+    100164: Grill:Burger6
+    100166: Grill:Burger7
+    100168: Grill:Burger8
+    100170: Grill:Burger9
+    100172: Grill:pCube1
+    100174: Grill:pCube2
+    100176: group1
+    100178: group1 1
+    100180: group1 10
+    100182: group1 11
+    100184: group1 12
+    100186: group1 13
+    100188: group1 14
+    100190: group1 15
+    100192: group1 16
+    100194: group1 17
+    100196: group1 18
+    100198: group1 19
+    100200: group1 2
+    100202: group1 20
+    100204: group1 3
+    100206: group1 4
+    100208: group1 5
+    100210: group1 6
+    100212: group1 7
+    100214: group1 8
+    100216: group1 9
+    100218: group10
+    100220: group11
+    100222: group12
+    100224: group13
+    100226: group14
+    100228: group15
+    100230: group16
+    100232: group17
+    100234: group18
+    100236: group2
+    100238: group2 1
+    100240: group2 10
+    100242: group2 11
+    100244: group2 12
+    100246: group2 13
+    100248: group2 14
+    100250: group2 15
+    100252: group2 16
+    100254: group2 17
+    100256: group2 18
+    100258: group2 19
+    100260: group2 2
+    100262: group2 20
+    100264: group2 3
+    100266: group2 4
+    100268: group2 5
+    100270: group2 6
+    100272: group2 7
+    100274: group2 8
+    100276: group2 9
+    100278: group3
+    100280: group3 1
+    100282: group3 2
+    100284: group3 3
+    100286: group3 4
+    100288: group4
+    100290: group4 1
+    100292: group4 2
+    100294: group4 3
+    100296: group4 4
+    100298: group5
+    100300: group5 1
+    100302: group5 2
+    100304: group5 3
+    100306: group5 4
+    100308: group6
+    100310: group7
+    100312: group7 1
+    100314: group8
+    100316: group8 1
+    100318: group8 2
+    100320: group8 3
+    100322: group9
+    100324: group9 1
+    100326: Guy1:Guy1:Guy
+    100328: Guy1:Head
+    100330: Guy1:Hips
+    100332: Guy1:LeftArm
+    100334: Guy1:LeftFoot
+    100336: Guy1:LeftForeArm
+    100338: Guy1:LeftHand
+    100340: Guy1:LeftLeg
+    100342: Guy1:LeftShoulder
+    100344: Guy1:LeftToeBase
+    100346: Guy1:LeftUpLeg
+    100348: Guy1:Neck
+    100350: Guy1:QuickRigCharacter_Ctrl_ChestEndEffector
+    100352: Guy1:QuickRigCharacter_Ctrl_ChestOriginEffector
+    100354: Guy1:QuickRigCharacter_Ctrl_Head
+    100356: Guy1:QuickRigCharacter_Ctrl_HeadEffector
+    100358: Guy1:QuickRigCharacter_Ctrl_Hips
+    100360: Guy1:QuickRigCharacter_Ctrl_HipsEffector
+    100362: Guy1:QuickRigCharacter_Ctrl_LeftAnkleEffector
+    100364: Guy1:QuickRigCharacter_Ctrl_LeftArm
+    100366: Guy1:QuickRigCharacter_Ctrl_LeftElbowEffector
+    100368: Guy1:QuickRigCharacter_Ctrl_LeftFoot
+    100370: Guy1:QuickRigCharacter_Ctrl_LeftFootEffector
+    100372: Guy1:QuickRigCharacter_Ctrl_LeftForeArm
+    100374: Guy1:QuickRigCharacter_Ctrl_LeftHand
+    100376: Guy1:QuickRigCharacter_Ctrl_LeftHipEffector
+    100378: Guy1:QuickRigCharacter_Ctrl_LeftKneeEffector
+    100380: Guy1:QuickRigCharacter_Ctrl_LeftLeg
+    100382: Guy1:QuickRigCharacter_Ctrl_LeftShoulder
+    100384: Guy1:QuickRigCharacter_Ctrl_LeftShoulderEffector
+    100386: Guy1:QuickRigCharacter_Ctrl_LeftToeBase
+    100388: Guy1:QuickRigCharacter_Ctrl_LeftUpLeg
+    100390: Guy1:QuickRigCharacter_Ctrl_LeftWristEffector
+    100392: Guy1:QuickRigCharacter_Ctrl_Neck
+    100394: Guy1:QuickRigCharacter_Ctrl_Reference
+    100396: Guy1:QuickRigCharacter_Ctrl_RightAnkleEffector
+    100398: Guy1:QuickRigCharacter_Ctrl_RightArm
+    100400: Guy1:QuickRigCharacter_Ctrl_RightElbowEffector
+    100402: Guy1:QuickRigCharacter_Ctrl_RightFoot
+    100404: Guy1:QuickRigCharacter_Ctrl_RightFootEffector
+    100406: Guy1:QuickRigCharacter_Ctrl_RightForeArm
+    100408: Guy1:QuickRigCharacter_Ctrl_RightHand
+    100410: Guy1:QuickRigCharacter_Ctrl_RightHipEffector
+    100412: Guy1:QuickRigCharacter_Ctrl_RightKneeEffector
+    100414: Guy1:QuickRigCharacter_Ctrl_RightLeg
+    100416: Guy1:QuickRigCharacter_Ctrl_RightShoulder
+    100418: Guy1:QuickRigCharacter_Ctrl_RightShoulderEffector
+    100420: Guy1:QuickRigCharacter_Ctrl_RightToeBase
+    100422: Guy1:QuickRigCharacter_Ctrl_RightUpLeg
+    100424: Guy1:QuickRigCharacter_Ctrl_RightWristEffector
+    100426: Guy1:QuickRigCharacter_Ctrl_Spine
+    100428: Guy1:QuickRigCharacter_Ctrl_Spine1
+    100430: Guy1:QuickRigCharacter_Ctrl_Spine2
+    100432: Guy1:QuickRigCharacter_Guides
+    100434: Guy1:QuickRigCharacter_Head
+    100436: Guy1:QuickRigCharacter_Hips
+    100438: Guy1:QuickRigCharacter_LeftArm
+    100440: Guy1:QuickRigCharacter_LeftFoot
+    100442: Guy1:QuickRigCharacter_LeftForeArm
+    100444: Guy1:QuickRigCharacter_LeftHand
+    100446: Guy1:QuickRigCharacter_LeftLeg
+    100448: Guy1:QuickRigCharacter_LeftShoulder
+    100450: Guy1:QuickRigCharacter_LeftToeBase
+    100452: Guy1:QuickRigCharacter_LeftUpLeg
+    100454: Guy1:QuickRigCharacter_Neck
+    100456: Guy1:QuickRigCharacter_Reference
+    100458: Guy1:QuickRigCharacter_RightArm
+    100460: Guy1:QuickRigCharacter_RightFoot
+    100462: Guy1:QuickRigCharacter_RightForeArm
+    100464: Guy1:QuickRigCharacter_RightHand
+    100466: Guy1:QuickRigCharacter_RightLeg
+    100468: Guy1:QuickRigCharacter_RightShoulder
+    100470: Guy1:QuickRigCharacter_RightToeBase
+    100472: Guy1:QuickRigCharacter_RightUpLeg
+    100474: Guy1:QuickRigCharacter_Spine
+    100476: Guy1:QuickRigCharacter_Spine1
+    100478: Guy1:QuickRigCharacter_Spine2
+    100480: Guy1:Reference
+    100482: Guy1:RightArm
+    100484: Guy1:RightFoot
+    100486: Guy1:RightForeArm
+    100488: Guy1:RightHand
+    100490: Guy1:RightLeg
+    100492: Guy1:RightShoulder
+    100494: Guy1:RightToeBase
+    100496: Guy1:RightUpLeg
+    100498: Guy1:Spine
+    100500: Guy1:Spine1
+    100502: Guy1:Spine2
+    100504: Guy:Character:Head
+    100506: Guy:Character:Hips
+    100508: Guy:Character:LeftArm
+    100510: Guy:Character:LeftFoot
+    100512: Guy:Character:LeftForeArm
+    100514: Guy:Character:LeftHand
+    100516: Guy:Character:LeftLeg
+    100518: Guy:Character:LeftShoulder
+    100520: Guy:Character:LeftToeBase
+    100522: Guy:Character:LeftUpLeg
+    100524: Guy:Character:Neck
+    100526: Guy:Character:pCube4
+    100528: Guy:Character:pCube5
+    100530: Guy:Character:QuickRigCharacter_Guides
+    100532: Guy:Character:Reference
+    100534: Guy:Character:RightArm
+    100536: Guy:Character:RightFoot
+    100538: Guy:Character:RightForeArm
+    100540: Guy:Character:RightHand
+    100542: Guy:Character:RightLeg
+    100544: Guy:Character:RightShoulder
+    100546: Guy:Character:RightToeBase
+    100548: Guy:Character:RightUpLeg
+    100550: Guy:Character:Spine
+    100552: Guy:Character:Spine1
+    100554: Guy:Character:Spine2
+    100556: Guy:Character:transform1
+    100558: Guy:Character:transform2
+    100560: Guy:Character:transform3
+    100562: Guy:Character_04:Head
+    100564: Guy:Character_04:Hips
+    100566: Guy:Character_04:LeftArm
+    100568: Guy:Character_04:LeftFoot
+    100570: Guy:Character_04:LeftForeArm
+    100572: Guy:Character_04:LeftHand
+    100574: Guy:Character_04:LeftLeg
+    100576: Guy:Character_04:LeftShoulder
+    100578: Guy:Character_04:LeftToeBase
+    100580: Guy:Character_04:LeftUpLeg
+    100582: Guy:Character_04:Neck
+    100584: Guy:Character_04:QuickRigCharacter_Guides
+    100586: Guy:Character_04:Reference
+    100588: Guy:Character_04:RightArm
+    100590: Guy:Character_04:RightFoot
+    100592: Guy:Character_04:RightForeArm
+    100594: Guy:Character_04:RightHand
+    100596: Guy:Character_04:RightLeg
+    100598: Guy:Character_04:RightShoulder
+    100600: Guy:Character_04:RightToeBase
+    100602: Guy:Character_04:RightUpLeg
+    100604: Guy:Character_04:Spine
+    100606: Guy:Character_04:Spine1
+    100608: Guy:Character_04:Spine2
+    100610: Guy:Charcii:Character:Head
+    100612: Guy:Charcii:Character:Hips
+    100614: Guy:Charcii:Character:LeftArm
+    100616: Guy:Charcii:Character:LeftFoot
+    100618: Guy:Charcii:Character:LeftForeArm
+    100620: Guy:Charcii:Character:LeftHand
+    100622: Guy:Charcii:Character:LeftLeg
+    100624: Guy:Charcii:Character:LeftShoulder
+    100626: Guy:Charcii:Character:LeftToeBase
+    100628: Guy:Charcii:Character:LeftUpLeg
+    100630: Guy:Charcii:Character:Neck
+    100632: Guy:Charcii:Character:pCube3
+    100634: Guy:Charcii:Character:QuickRigCharacter_Guides
+    100636: Guy:Charcii:Character:Reference
+    100638: Guy:Charcii:Character:RightArm
+    100640: Guy:Charcii:Character:RightFoot
+    100642: Guy:Charcii:Character:RightForeArm
+    100644: Guy:Charcii:Character:RightHand
+    100646: Guy:Charcii:Character:RightLeg
+    100648: Guy:Charcii:Character:RightShoulder
+    100650: Guy:Charcii:Character:RightToeBase
+    100652: Guy:Charcii:Character:RightUpLeg
+    100654: Guy:Charcii:Character:Spine
+    100656: Guy:Charcii:Character:Spine1
+    100658: Guy:Charcii:Character:Spine2
+    100660: Guy:Charcii:Character_04:Head
+    100662: Guy:Charcii:Character_04:Hips
+    100664: Guy:Charcii:Character_04:LeftArm
+    100666: Guy:Charcii:Character_04:LeftFoot
+    100668: Guy:Charcii:Character_04:LeftForeArm
+    100670: Guy:Charcii:Character_04:LeftHand
+    100672: Guy:Charcii:Character_04:LeftLeg
+    100674: Guy:Charcii:Character_04:LeftShoulder
+    100676: Guy:Charcii:Character_04:LeftToeBase
+    100678: Guy:Charcii:Character_04:LeftUpLeg
+    100680: Guy:Charcii:Character_04:Neck
+    100682: Guy:Charcii:Character_04:QuickRigCharacter_Guides
+    100684: Guy:Charcii:Character_04:Reference
+    100686: Guy:Charcii:Character_04:RightArm
+    100688: Guy:Charcii:Character_04:RightFoot
+    100690: Guy:Charcii:Character_04:RightForeArm
+    100692: Guy:Charcii:Character_04:RightHand
+    100694: Guy:Charcii:Character_04:RightLeg
+    100696: Guy:Charcii:Character_04:RightShoulder
+    100698: Guy:Charcii:Character_04:RightToeBase
+    100700: Guy:Charcii:Character_04:RightUpLeg
+    100702: Guy:Charcii:Character_04:Spine
+    100704: Guy:Charcii:Character_04:Spine1
+    100706: Guy:Charcii:Character_04:Spine2
+    100708: Guy:Head
+    100710: Guy:Hips
+    100712: Guy:joint1
+    100714: Guy:joint2
+    100716: Guy:joint3
+    100718: Guy:LeftArm
+    100720: Guy:LeftFoot
+    100722: Guy:LeftForeArm
+    100724: Guy:LeftHand
+    100726: Guy:LeftLeg
+    100728: Guy:LeftShoulder
+    100730: Guy:LeftToeBase
+    100732: Guy:LeftUpLeg
+    100734: Guy:Neck
+    100736: Guy:QuickRigCharacter_Guides
+    100738: Guy:Reference
+    100740: Guy:RightArm
+    100742: Guy:RightFoot
+    100744: Guy:RightForeArm
+    100746: Guy:RightHand
+    100748: Guy:RightLeg
+    100750: Guy:RightShoulder
+    100752: Guy:RightToeBase
+    100754: Guy:RightUpLeg
+    100756: Guy:Spine
+    100758: Guy:Spine1
+    100760: Head
+    100762: Hips
+    100764: LeftArm
+    100766: LeftFoot
+    100768: LeftForeArm
+    100770: LeftHand
+    100772: LeftLeg
+    100774: LeftShoulder
+    100776: LeftToeBase
+    100778: LeftUpLeg
+    100780: Neck
+    100782: Oven1
+    100784: Oven:Oven1
+    100786: Oven:Oven2
+    100788: Oven:pCube10
+    100790: Oven:pCube11
+    100792: Oven:pCube12
+    100794: Oven:pCube13
+    100796: Oven:pCube14
+    100798: Oven:pCube15
+    100800: Oven:pCube16
+    100802: Oven:pCube17
+    100804: Oven:pCube3
+    100806: Oven:pCube4
+    100808: Oven:pCube5
+    100810: Oven:pCube6
+    100812: Oven:pCube7
+    100814: Oven:pCube8
+    100816: Oven:pCube9
+    100818: Oven:pDisc3
+    100820: Oven:pDisc4
+    100822: Oven:pDisc5
+    100824: Oven:pDisc6
+    100826: Oven:pDisc7
+    100828: Oven:pDisc8
+    100830: pCube1
+    100832: pCube1 1
+    100834: pCube10
+    100836: pCube11
+    100838: pCube12
+    100840: pCube13
+    100842: pCube14
+    100844: pCube15
+    100846: pCube16
+    100848: pCube17
+    100850: pCube18
+    100852: pCube2
+    100854: pCube3
+    100856: pCube4
+    100858: pCube4 1
+    100860: pCube5
+    100862: pCube5 1
+    100864: pCube6
+    100866: pCube6 1
+    100868: pCube6 10
+    100870: pCube6 11
+    100872: pCube6 12
+    100874: pCube6 13
+    100876: pCube6 14
+    100878: pCube6 15
+    100880: pCube6 16
+    100882: pCube6 17
+    100884: pCube6 18
+    100886: pCube6 19
+    100888: pCube6 2
+    100890: pCube6 20
+    100892: pCube6 21
+    100894: pCube6 22
+    100896: pCube6 23
+    100898: pCube6 24
+    100900: pCube6 25
+    100902: pCube6 26
+    100904: pCube6 27
+    100906: pCube6 28
+    100908: pCube6 29
+    100910: pCube6 3
+    100912: pCube6 30
+    100914: pCube6 31
+    100916: pCube6 32
+    100918: pCube6 33
+    100920: pCube6 34
+    100922: pCube6 35
+    100924: pCube6 36
+    100926: pCube6 37
+    100928: pCube6 38
+    100930: pCube6 39
+    100932: pCube6 4
+    100934: pCube6 40
+    100936: pCube6 41
+    100938: pCube6 42
+    100940: pCube6 5
+    100942: pCube6 6
+    100944: pCube6 7
+    100946: pCube6 8
+    100948: pCube6 9
+    100950: pCube7
+    100952: pCube7 1
+    100954: pCube7 10
+    100956: pCube7 11
+    100958: pCube7 12
+    100960: pCube7 13
+    100962: pCube7 14
+    100964: pCube7 15
+    100966: pCube7 16
+    100968: pCube7 17
+    100970: pCube7 18
+    100972: pCube7 19
+    100974: pCube7 2
+    100976: pCube7 20
+    100978: pCube7 21
+    100980: pCube7 22
+    100982: pCube7 23
+    100984: pCube7 24
+    100986: pCube7 25
+    100988: pCube7 26
+    100990: pCube7 27
+    100992: pCube7 28
+    100994: pCube7 29
+    100996: pCube7 3
+    100998: pCube7 30
+    101000: pCube7 31
+    101002: pCube7 32
+    101004: pCube7 33
+    101006: pCube7 34
+    101008: pCube7 35
+    101010: pCube7 36
+    101012: pCube7 37
+    101014: pCube7 38
+    101016: pCube7 39
+    101018: pCube7 4
+    101020: pCube7 40
+    101022: pCube7 41
+    101024: pCube7 42
+    101026: pCube7 5
+    101028: pCube7 6
+    101030: pCube7 7
+    101032: pCube7 8
+    101034: pCube7 9
+    101036: pCube8
+    101038: pCube8 1
+    101040: pCube8 10
+    101042: pCube8 11
+    101044: pCube8 12
+    101046: pCube8 13
+    101048: pCube8 14
+    101050: pCube8 15
+    101052: pCube8 16
+    101054: pCube8 17
+    101056: pCube8 18
+    101058: pCube8 19
+    101060: pCube8 2
+    101062: pCube8 20
+    101064: pCube8 21
+    101066: pCube8 3
+    101068: pCube8 4
+    101070: pCube8 5
+    101072: pCube8 6
+    101074: pCube8 7
+    101076: pCube8 8
+    101078: pCube8 9
+    101080: pCube9
+    101082: pCube9 1
+    101084: pCylinder1
+    101086: pCylinder10
+    101088: pCylinder11
+    101090: pCylinder12
+    101092: pCylinder13
+    101094: pCylinder14
+    101096: pCylinder15
+    101098: pCylinder16
+    101100: pCylinder17
+    101102: pCylinder18
+    101104: pCylinder19
+    101106: pCylinder2
+    101108: pCylinder20
+    101110: pCylinder21
+    101112: pCylinder22
+    101114: pCylinder22 1
+    101116: pCylinder23
+    101118: pCylinder23 1
+    101120: pCylinder24
+    101122: pCylinder24 1
+    101124: pCylinder25
+    101126: pCylinder25 1
+    101128: pCylinder27
+    101130: pCylinder28
+    101132: pCylinder3
+    101134: pCylinder4
+    101136: pCylinder5
+    101138: pCylinder6
+    101140: pCylinder7
+    101142: pCylinder8
+    101144: pCylinder9
+    101146: pDisc3
+    101148: pDisc4
+    101150: pDisc5
+    101152: pDisc6
+    101154: pDisc7
+    101156: pPlane1
+    101158: pPlane10
+    101160: pPlane11
+    101162: pPlane12
+    101164: pPlane13
+    101166: pPlane14
+    101168: pPlane5
+    101170: pPlane7
+    101172: pPlane8
+    101174: pPlane9
+    101176: QuickRigCharacter_Ctrl_ChestEndEffector
+    101178: QuickRigCharacter_Ctrl_ChestOriginEffector
+    101180: QuickRigCharacter_Ctrl_Head
+    101182: QuickRigCharacter_Ctrl_HeadEffector
+    101184: QuickRigCharacter_Ctrl_Hips
+    101186: QuickRigCharacter_Ctrl_HipsEffector
+    101188: QuickRigCharacter_Ctrl_LeftAnkleEffector
+    101190: QuickRigCharacter_Ctrl_LeftArm
+    101192: QuickRigCharacter_Ctrl_LeftElbowEffector
+    101194: QuickRigCharacter_Ctrl_LeftFoot
+    101196: QuickRigCharacter_Ctrl_LeftFootEffector
+    101198: QuickRigCharacter_Ctrl_LeftForeArm
+    101200: QuickRigCharacter_Ctrl_LeftHand
+    101202: QuickRigCharacter_Ctrl_LeftHipEffector
+    101204: QuickRigCharacter_Ctrl_LeftKneeEffector
+    101206: QuickRigCharacter_Ctrl_LeftLeg
+    101208: QuickRigCharacter_Ctrl_LeftShoulder
+    101210: QuickRigCharacter_Ctrl_LeftShoulderEffector
+    101212: QuickRigCharacter_Ctrl_LeftToeBase
+    101214: QuickRigCharacter_Ctrl_LeftUpLeg
+    101216: QuickRigCharacter_Ctrl_LeftWristEffector
+    101218: QuickRigCharacter_Ctrl_Neck
+    101220: QuickRigCharacter_Ctrl_Reference
+    101222: QuickRigCharacter_Ctrl_RightAnkleEffector
+    101224: QuickRigCharacter_Ctrl_RightArm
+    101226: QuickRigCharacter_Ctrl_RightElbowEffector
+    101228: QuickRigCharacter_Ctrl_RightFoot
+    101230: QuickRigCharacter_Ctrl_RightFootEffector
+    101232: QuickRigCharacter_Ctrl_RightForeArm
+    101234: QuickRigCharacter_Ctrl_RightHand
+    101236: QuickRigCharacter_Ctrl_RightHipEffector
+    101238: QuickRigCharacter_Ctrl_RightKneeEffector
+    101240: QuickRigCharacter_Ctrl_RightLeg
+    101242: QuickRigCharacter_Ctrl_RightShoulder
+    101244: QuickRigCharacter_Ctrl_RightShoulderEffector
+    101246: QuickRigCharacter_Ctrl_RightToeBase
+    101248: QuickRigCharacter_Ctrl_RightUpLeg
+    101250: QuickRigCharacter_Ctrl_RightWristEffector
+    101252: QuickRigCharacter_Ctrl_Spine
+    101254: QuickRigCharacter_Ctrl_Spine1
+    101256: QuickRigCharacter_Ctrl_Spine2
+    101258: QuickRigCharacter_Guides
+    101260: QuickRigCharacter_Head
+    101262: QuickRigCharacter_Hips
+    101264: QuickRigCharacter_LeftArm
+    101266: QuickRigCharacter_LeftFoot
+    101268: QuickRigCharacter_LeftForeArm
+    101270: QuickRigCharacter_LeftHand
+    101272: QuickRigCharacter_LeftLeg
+    101274: QuickRigCharacter_LeftShoulder
+    101276: QuickRigCharacter_LeftToeBase
+    101278: QuickRigCharacter_LeftUpLeg
+    101280: QuickRigCharacter_Neck
+    101282: QuickRigCharacter_Reference
+    101284: QuickRigCharacter_RightArm
+    101286: QuickRigCharacter_RightFoot
+    101288: QuickRigCharacter_RightForeArm
+    101290: QuickRigCharacter_RightHand
+    101292: QuickRigCharacter_RightLeg
+    101294: QuickRigCharacter_RightShoulder
+    101296: QuickRigCharacter_RightToeBase
+    101298: QuickRigCharacter_RightUpLeg
+    101300: QuickRigCharacter_Spine
+    101302: QuickRigCharacter_Spine1
+    101304: QuickRigCharacter_Spine2
+    101306: Reference
+    101308: RightArm
+    101310: RightFoot
+    101312: RightForeArm
+    101314: RightHand
+    101316: RightLeg
+    101318: RightShoulder
+    101320: RightToeBase
+    101322: RightUpLeg
+    101324: Signs:Nuka_Cherry
+    101326: Signs:Nuka_Cola
+    101328: Spine
+    101330: Spine1
+    101332: Spine2
+    400000: bend1Handle
+    400002: Charcii:Character:Head
+    400004: Charcii:Character:Hips
+    400006: Charcii:Character:LeftArm
+    400008: Charcii:Character:LeftFoot
+    400010: Charcii:Character:LeftForeArm
+    400012: Charcii:Character:LeftHand
+    400014: Charcii:Character:LeftLeg
+    400016: Charcii:Character:LeftShoulder
+    400018: Charcii:Character:LeftToeBase
+    400020: Charcii:Character:LeftUpLeg
+    400022: Charcii:Character:Neck
+    400024: Charcii:Character:pCube3
+    400026: Charcii:Character:pCube4
+    400028: Charcii:Character:pCube5
+    400030: Charcii:Character:QuickRigCharacter_Guides
+    400032: Charcii:Character:Reference
+    400034: Charcii:Character:RightArm
+    400036: Charcii:Character:RightFoot
+    400038: Charcii:Character:RightForeArm
+    400040: Charcii:Character:RightHand
+    400042: Charcii:Character:RightLeg
+    400044: Charcii:Character:RightShoulder
+    400046: Charcii:Character:RightToeBase
+    400048: Charcii:Character:RightUpLeg
+    400050: Charcii:Character:Spine
+    400052: Charcii:Character:Spine1
+    400054: Charcii:Character:Spine2
+    400056: Charcii:Character_04:Head
+    400058: Charcii:Character_04:Hips
+    400060: Charcii:Character_04:LeftArm
+    400062: Charcii:Character_04:LeftFoot
+    400064: Charcii:Character_04:LeftForeArm
+    400066: Charcii:Character_04:LeftHand
+    400068: Charcii:Character_04:LeftLeg
+    400070: Charcii:Character_04:LeftShoulder
+    400072: Charcii:Character_04:LeftToeBase
+    400074: Charcii:Character_04:LeftUpLeg
+    400076: Charcii:Character_04:Neck
+    400078: Charcii:Character_04:QuickRigCharacter_Guides
+    400080: Charcii:Character_04:QuickRigCharacter_Head
+    400082: Charcii:Character_04:QuickRigCharacter_Hips
+    400084: Charcii:Character_04:QuickRigCharacter_LeftArm
+    400086: Charcii:Character_04:QuickRigCharacter_LeftFoot
+    400088: Charcii:Character_04:QuickRigCharacter_LeftForeArm
+    400090: Charcii:Character_04:QuickRigCharacter_LeftHand
+    400092: Charcii:Character_04:QuickRigCharacter_LeftLeg
+    400094: Charcii:Character_04:QuickRigCharacter_LeftShoulder
+    400096: Charcii:Character_04:QuickRigCharacter_LeftToeBase
+    400098: Charcii:Character_04:QuickRigCharacter_LeftUpLeg
+    400100: Charcii:Character_04:QuickRigCharacter_Neck
+    400102: Charcii:Character_04:QuickRigCharacter_Reference
+    400104: Charcii:Character_04:QuickRigCharacter_RightArm
+    400106: Charcii:Character_04:QuickRigCharacter_RightFoot
+    400108: Charcii:Character_04:QuickRigCharacter_RightForeArm
+    400110: Charcii:Character_04:QuickRigCharacter_RightHand
+    400112: Charcii:Character_04:QuickRigCharacter_RightLeg
+    400114: Charcii:Character_04:QuickRigCharacter_RightShoulder
+    400116: Charcii:Character_04:QuickRigCharacter_RightToeBase
+    400118: Charcii:Character_04:QuickRigCharacter_RightUpLeg
+    400120: Charcii:Character_04:QuickRigCharacter_Spine
+    400122: Charcii:Character_04:QuickRigCharacter_Spine1
+    400124: Charcii:Character_04:QuickRigCharacter_Spine2
+    400126: Charcii:Character_04:Reference
+    400128: Charcii:Character_04:RightArm
+    400130: Charcii:Character_04:RightFoot
+    400132: Charcii:Character_04:RightForeArm
+    400134: Charcii:Character_04:RightHand
+    400136: Charcii:Character_04:RightLeg
+    400138: Charcii:Character_04:RightShoulder
+    400140: Charcii:Character_04:RightToeBase
+    400142: Charcii:Character_04:RightUpLeg
+    400144: Charcii:Character_04:Spine
+    400146: Charcii:Character_04:Spine1
+    400148: Charcii:Character_04:Spine2
+    400150: //RootNode
+    400152: Floor
+    400154: Floor2
+    400156: Grill:Bun_Top1
+    400158: Grill:Bun_Top2
+    400160: Grill:Burger10
+    400162: Grill:Burger11
+    400164: Grill:Burger6
+    400166: Grill:Burger7
+    400168: Grill:Burger8
+    400170: Grill:Burger9
+    400172: Grill:pCube1
+    400174: Grill:pCube2
+    400176: group1
+    400178: group1 1
+    400180: group1 10
+    400182: group1 11
+    400184: group1 12
+    400186: group1 13
+    400188: group1 14
+    400190: group1 15
+    400192: group1 16
+    400194: group1 17
+    400196: group1 18
+    400198: group1 19
+    400200: group1 2
+    400202: group1 20
+    400204: group1 3
+    400206: group1 4
+    400208: group1 5
+    400210: group1 6
+    400212: group1 7
+    400214: group1 8
+    400216: group1 9
+    400218: group10
+    400220: group11
+    400222: group12
+    400224: group13
+    400226: group14
+    400228: group15
+    400230: group16
+    400232: group17
+    400234: group18
+    400236: group2
+    400238: group2 1
+    400240: group2 10
+    400242: group2 11
+    400244: group2 12
+    400246: group2 13
+    400248: group2 14
+    400250: group2 15
+    400252: group2 16
+    400254: group2 17
+    400256: group2 18
+    400258: group2 19
+    400260: group2 2
+    400262: group2 20
+    400264: group2 3
+    400266: group2 4
+    400268: group2 5
+    400270: group2 6
+    400272: group2 7
+    400274: group2 8
+    400276: group2 9
+    400278: group3
+    400280: group3 1
+    400282: group3 2
+    400284: group3 3
+    400286: group3 4
+    400288: group4
+    400290: group4 1
+    400292: group4 2
+    400294: group4 3
+    400296: group4 4
+    400298: group5
+    400300: group5 1
+    400302: group5 2
+    400304: group5 3
+    400306: group5 4
+    400308: group6
+    400310: group7
+    400312: group7 1
+    400314: group8
+    400316: group8 1
+    400318: group8 2
+    400320: group8 3
+    400322: group9
+    400324: group9 1
+    400326: Guy1:Guy1:Guy
+    400328: Guy1:Head
+    400330: Guy1:Hips
+    400332: Guy1:LeftArm
+    400334: Guy1:LeftFoot
+    400336: Guy1:LeftForeArm
+    400338: Guy1:LeftHand
+    400340: Guy1:LeftLeg
+    400342: Guy1:LeftShoulder
+    400344: Guy1:LeftToeBase
+    400346: Guy1:LeftUpLeg
+    400348: Guy1:Neck
+    400350: Guy1:QuickRigCharacter_Ctrl_ChestEndEffector
+    400352: Guy1:QuickRigCharacter_Ctrl_ChestOriginEffector
+    400354: Guy1:QuickRigCharacter_Ctrl_Head
+    400356: Guy1:QuickRigCharacter_Ctrl_HeadEffector
+    400358: Guy1:QuickRigCharacter_Ctrl_Hips
+    400360: Guy1:QuickRigCharacter_Ctrl_HipsEffector
+    400362: Guy1:QuickRigCharacter_Ctrl_LeftAnkleEffector
+    400364: Guy1:QuickRigCharacter_Ctrl_LeftArm
+    400366: Guy1:QuickRigCharacter_Ctrl_LeftElbowEffector
+    400368: Guy1:QuickRigCharacter_Ctrl_LeftFoot
+    400370: Guy1:QuickRigCharacter_Ctrl_LeftFootEffector
+    400372: Guy1:QuickRigCharacter_Ctrl_LeftForeArm
+    400374: Guy1:QuickRigCharacter_Ctrl_LeftHand
+    400376: Guy1:QuickRigCharacter_Ctrl_LeftHipEffector
+    400378: Guy1:QuickRigCharacter_Ctrl_LeftKneeEffector
+    400380: Guy1:QuickRigCharacter_Ctrl_LeftLeg
+    400382: Guy1:QuickRigCharacter_Ctrl_LeftShoulder
+    400384: Guy1:QuickRigCharacter_Ctrl_LeftShoulderEffector
+    400386: Guy1:QuickRigCharacter_Ctrl_LeftToeBase
+    400388: Guy1:QuickRigCharacter_Ctrl_LeftUpLeg
+    400390: Guy1:QuickRigCharacter_Ctrl_LeftWristEffector
+    400392: Guy1:QuickRigCharacter_Ctrl_Neck
+    400394: Guy1:QuickRigCharacter_Ctrl_Reference
+    400396: Guy1:QuickRigCharacter_Ctrl_RightAnkleEffector
+    400398: Guy1:QuickRigCharacter_Ctrl_RightArm
+    400400: Guy1:QuickRigCharacter_Ctrl_RightElbowEffector
+    400402: Guy1:QuickRigCharacter_Ctrl_RightFoot
+    400404: Guy1:QuickRigCharacter_Ctrl_RightFootEffector
+    400406: Guy1:QuickRigCharacter_Ctrl_RightForeArm
+    400408: Guy1:QuickRigCharacter_Ctrl_RightHand
+    400410: Guy1:QuickRigCharacter_Ctrl_RightHipEffector
+    400412: Guy1:QuickRigCharacter_Ctrl_RightKneeEffector
+    400414: Guy1:QuickRigCharacter_Ctrl_RightLeg
+    400416: Guy1:QuickRigCharacter_Ctrl_RightShoulder
+    400418: Guy1:QuickRigCharacter_Ctrl_RightShoulderEffector
+    400420: Guy1:QuickRigCharacter_Ctrl_RightToeBase
+    400422: Guy1:QuickRigCharacter_Ctrl_RightUpLeg
+    400424: Guy1:QuickRigCharacter_Ctrl_RightWristEffector
+    400426: Guy1:QuickRigCharacter_Ctrl_Spine
+    400428: Guy1:QuickRigCharacter_Ctrl_Spine1
+    400430: Guy1:QuickRigCharacter_Ctrl_Spine2
+    400432: Guy1:QuickRigCharacter_Guides
+    400434: Guy1:QuickRigCharacter_Head
+    400436: Guy1:QuickRigCharacter_Hips
+    400438: Guy1:QuickRigCharacter_LeftArm
+    400440: Guy1:QuickRigCharacter_LeftFoot
+    400442: Guy1:QuickRigCharacter_LeftForeArm
+    400444: Guy1:QuickRigCharacter_LeftHand
+    400446: Guy1:QuickRigCharacter_LeftLeg
+    400448: Guy1:QuickRigCharacter_LeftShoulder
+    400450: Guy1:QuickRigCharacter_LeftToeBase
+    400452: Guy1:QuickRigCharacter_LeftUpLeg
+    400454: Guy1:QuickRigCharacter_Neck
+    400456: Guy1:QuickRigCharacter_Reference
+    400458: Guy1:QuickRigCharacter_RightArm
+    400460: Guy1:QuickRigCharacter_RightFoot
+    400462: Guy1:QuickRigCharacter_RightForeArm
+    400464: Guy1:QuickRigCharacter_RightHand
+    400466: Guy1:QuickRigCharacter_RightLeg
+    400468: Guy1:QuickRigCharacter_RightShoulder
+    400470: Guy1:QuickRigCharacter_RightToeBase
+    400472: Guy1:QuickRigCharacter_RightUpLeg
+    400474: Guy1:QuickRigCharacter_Spine
+    400476: Guy1:QuickRigCharacter_Spine1
+    400478: Guy1:QuickRigCharacter_Spine2
+    400480: Guy1:Reference
+    400482: Guy1:RightArm
+    400484: Guy1:RightFoot
+    400486: Guy1:RightForeArm
+    400488: Guy1:RightHand
+    400490: Guy1:RightLeg
+    400492: Guy1:RightShoulder
+    400494: Guy1:RightToeBase
+    400496: Guy1:RightUpLeg
+    400498: Guy1:Spine
+    400500: Guy1:Spine1
+    400502: Guy1:Spine2
+    400504: Guy:Character:Head
+    400506: Guy:Character:Hips
+    400508: Guy:Character:LeftArm
+    400510: Guy:Character:LeftFoot
+    400512: Guy:Character:LeftForeArm
+    400514: Guy:Character:LeftHand
+    400516: Guy:Character:LeftLeg
+    400518: Guy:Character:LeftShoulder
+    400520: Guy:Character:LeftToeBase
+    400522: Guy:Character:LeftUpLeg
+    400524: Guy:Character:Neck
+    400526: Guy:Character:pCube4
+    400528: Guy:Character:pCube5
+    400530: Guy:Character:QuickRigCharacter_Guides
+    400532: Guy:Character:Reference
+    400534: Guy:Character:RightArm
+    400536: Guy:Character:RightFoot
+    400538: Guy:Character:RightForeArm
+    400540: Guy:Character:RightHand
+    400542: Guy:Character:RightLeg
+    400544: Guy:Character:RightShoulder
+    400546: Guy:Character:RightToeBase
+    400548: Guy:Character:RightUpLeg
+    400550: Guy:Character:Spine
+    400552: Guy:Character:Spine1
+    400554: Guy:Character:Spine2
+    400556: Guy:Character:transform1
+    400558: Guy:Character:transform2
+    400560: Guy:Character:transform3
+    400562: Guy:Character_04:Head
+    400564: Guy:Character_04:Hips
+    400566: Guy:Character_04:LeftArm
+    400568: Guy:Character_04:LeftFoot
+    400570: Guy:Character_04:LeftForeArm
+    400572: Guy:Character_04:LeftHand
+    400574: Guy:Character_04:LeftLeg
+    400576: Guy:Character_04:LeftShoulder
+    400578: Guy:Character_04:LeftToeBase
+    400580: Guy:Character_04:LeftUpLeg
+    400582: Guy:Character_04:Neck
+    400584: Guy:Character_04:QuickRigCharacter_Guides
+    400586: Guy:Character_04:Reference
+    400588: Guy:Character_04:RightArm
+    400590: Guy:Character_04:RightFoot
+    400592: Guy:Character_04:RightForeArm
+    400594: Guy:Character_04:RightHand
+    400596: Guy:Character_04:RightLeg
+    400598: Guy:Character_04:RightShoulder
+    400600: Guy:Character_04:RightToeBase
+    400602: Guy:Character_04:RightUpLeg
+    400604: Guy:Character_04:Spine
+    400606: Guy:Character_04:Spine1
+    400608: Guy:Character_04:Spine2
+    400610: Guy:Charcii:Character:Head
+    400612: Guy:Charcii:Character:Hips
+    400614: Guy:Charcii:Character:LeftArm
+    400616: Guy:Charcii:Character:LeftFoot
+    400618: Guy:Charcii:Character:LeftForeArm
+    400620: Guy:Charcii:Character:LeftHand
+    400622: Guy:Charcii:Character:LeftLeg
+    400624: Guy:Charcii:Character:LeftShoulder
+    400626: Guy:Charcii:Character:LeftToeBase
+    400628: Guy:Charcii:Character:LeftUpLeg
+    400630: Guy:Charcii:Character:Neck
+    400632: Guy:Charcii:Character:pCube3
+    400634: Guy:Charcii:Character:QuickRigCharacter_Guides
+    400636: Guy:Charcii:Character:Reference
+    400638: Guy:Charcii:Character:RightArm
+    400640: Guy:Charcii:Character:RightFoot
+    400642: Guy:Charcii:Character:RightForeArm
+    400644: Guy:Charcii:Character:RightHand
+    400646: Guy:Charcii:Character:RightLeg
+    400648: Guy:Charcii:Character:RightShoulder
+    400650: Guy:Charcii:Character:RightToeBase
+    400652: Guy:Charcii:Character:RightUpLeg
+    400654: Guy:Charcii:Character:Spine
+    400656: Guy:Charcii:Character:Spine1
+    400658: Guy:Charcii:Character:Spine2
+    400660: Guy:Charcii:Character_04:Head
+    400662: Guy:Charcii:Character_04:Hips
+    400664: Guy:Charcii:Character_04:LeftArm
+    400666: Guy:Charcii:Character_04:LeftFoot
+    400668: Guy:Charcii:Character_04:LeftForeArm
+    400670: Guy:Charcii:Character_04:LeftHand
+    400672: Guy:Charcii:Character_04:LeftLeg
+    400674: Guy:Charcii:Character_04:LeftShoulder
+    400676: Guy:Charcii:Character_04:LeftToeBase
+    400678: Guy:Charcii:Character_04:LeftUpLeg
+    400680: Guy:Charcii:Character_04:Neck
+    400682: Guy:Charcii:Character_04:QuickRigCharacter_Guides
+    400684: Guy:Charcii:Character_04:Reference
+    400686: Guy:Charcii:Character_04:RightArm
+    400688: Guy:Charcii:Character_04:RightFoot
+    400690: Guy:Charcii:Character_04:RightForeArm
+    400692: Guy:Charcii:Character_04:RightHand
+    400694: Guy:Charcii:Character_04:RightLeg
+    400696: Guy:Charcii:Character_04:RightShoulder
+    400698: Guy:Charcii:Character_04:RightToeBase
+    400700: Guy:Charcii:Character_04:RightUpLeg
+    400702: Guy:Charcii:Character_04:Spine
+    400704: Guy:Charcii:Character_04:Spine1
+    400706: Guy:Charcii:Character_04:Spine2
+    400708: Guy:Head
+    400710: Guy:Hips
+    400712: Guy:joint1
+    400714: Guy:joint2
+    400716: Guy:joint3
+    400718: Guy:LeftArm
+    400720: Guy:LeftFoot
+    400722: Guy:LeftForeArm
+    400724: Guy:LeftHand
+    400726: Guy:LeftLeg
+    400728: Guy:LeftShoulder
+    400730: Guy:LeftToeBase
+    400732: Guy:LeftUpLeg
+    400734: Guy:Neck
+    400736: Guy:QuickRigCharacter_Guides
+    400738: Guy:Reference
+    400740: Guy:RightArm
+    400742: Guy:RightFoot
+    400744: Guy:RightForeArm
+    400746: Guy:RightHand
+    400748: Guy:RightLeg
+    400750: Guy:RightShoulder
+    400752: Guy:RightToeBase
+    400754: Guy:RightUpLeg
+    400756: Guy:Spine
+    400758: Guy:Spine1
+    400760: Head
+    400762: Hips
+    400764: LeftArm
+    400766: LeftFoot
+    400768: LeftForeArm
+    400770: LeftHand
+    400772: LeftLeg
+    400774: LeftShoulder
+    400776: LeftToeBase
+    400778: LeftUpLeg
+    400780: Neck
+    400782: Oven1
+    400784: Oven:Oven1
+    400786: Oven:Oven2
+    400788: Oven:pCube10
+    400790: Oven:pCube11
+    400792: Oven:pCube12
+    400794: Oven:pCube13
+    400796: Oven:pCube14
+    400798: Oven:pCube15
+    400800: Oven:pCube16
+    400802: Oven:pCube17
+    400804: Oven:pCube3
+    400806: Oven:pCube4
+    400808: Oven:pCube5
+    400810: Oven:pCube6
+    400812: Oven:pCube7
+    400814: Oven:pCube8
+    400816: Oven:pCube9
+    400818: Oven:pDisc3
+    400820: Oven:pDisc4
+    400822: Oven:pDisc5
+    400824: Oven:pDisc6
+    400826: Oven:pDisc7
+    400828: Oven:pDisc8
+    400830: pCube1
+    400832: pCube1 1
+    400834: pCube10
+    400836: pCube11
+    400838: pCube12
+    400840: pCube13
+    400842: pCube14
+    400844: pCube15
+    400846: pCube16
+    400848: pCube17
+    400850: pCube18
+    400852: pCube2
+    400854: pCube3
+    400856: pCube4
+    400858: pCube4 1
+    400860: pCube5
+    400862: pCube5 1
+    400864: pCube6
+    400866: pCube6 1
+    400868: pCube6 10
+    400870: pCube6 11
+    400872: pCube6 12
+    400874: pCube6 13
+    400876: pCube6 14
+    400878: pCube6 15
+    400880: pCube6 16
+    400882: pCube6 17
+    400884: pCube6 18
+    400886: pCube6 19
+    400888: pCube6 2
+    400890: pCube6 20
+    400892: pCube6 21
+    400894: pCube6 22
+    400896: pCube6 23
+    400898: pCube6 24
+    400900: pCube6 25
+    400902: pCube6 26
+    400904: pCube6 27
+    400906: pCube6 28
+    400908: pCube6 29
+    400910: pCube6 3
+    400912: pCube6 30
+    400914: pCube6 31
+    400916: pCube6 32
+    400918: pCube6 33
+    400920: pCube6 34
+    400922: pCube6 35
+    400924: pCube6 36
+    400926: pCube6 37
+    400928: pCube6 38
+    400930: pCube6 39
+    400932: pCube6 4
+    400934: pCube6 40
+    400936: pCube6 41
+    400938: pCube6 42
+    400940: pCube6 5
+    400942: pCube6 6
+    400944: pCube6 7
+    400946: pCube6 8
+    400948: pCube6 9
+    400950: pCube7
+    400952: pCube7 1
+    400954: pCube7 10
+    400956: pCube7 11
+    400958: pCube7 12
+    400960: pCube7 13
+    400962: pCube7 14
+    400964: pCube7 15
+    400966: pCube7 16
+    400968: pCube7 17
+    400970: pCube7 18
+    400972: pCube7 19
+    400974: pCube7 2
+    400976: pCube7 20
+    400978: pCube7 21
+    400980: pCube7 22
+    400982: pCube7 23
+    400984: pCube7 24
+    400986: pCube7 25
+    400988: pCube7 26
+    400990: pCube7 27
+    400992: pCube7 28
+    400994: pCube7 29
+    400996: pCube7 3
+    400998: pCube7 30
+    401000: pCube7 31
+    401002: pCube7 32
+    401004: pCube7 33
+    401006: pCube7 34
+    401008: pCube7 35
+    401010: pCube7 36
+    401012: pCube7 37
+    401014: pCube7 38
+    401016: pCube7 39
+    401018: pCube7 4
+    401020: pCube7 40
+    401022: pCube7 41
+    401024: pCube7 42
+    401026: pCube7 5
+    401028: pCube7 6
+    401030: pCube7 7
+    401032: pCube7 8
+    401034: pCube7 9
+    401036: pCube8
+    401038: pCube8 1
+    401040: pCube8 10
+    401042: pCube8 11
+    401044: pCube8 12
+    401046: pCube8 13
+    401048: pCube8 14
+    401050: pCube8 15
+    401052: pCube8 16
+    401054: pCube8 17
+    401056: pCube8 18
+    401058: pCube8 19
+    401060: pCube8 2
+    401062: pCube8 20
+    401064: pCube8 21
+    401066: pCube8 3
+    401068: pCube8 4
+    401070: pCube8 5
+    401072: pCube8 6
+    401074: pCube8 7
+    401076: pCube8 8
+    401078: pCube8 9
+    401080: pCube9
+    401082: pCube9 1
+    401084: pCylinder1
+    401086: pCylinder10
+    401088: pCylinder11
+    401090: pCylinder12
+    401092: pCylinder13
+    401094: pCylinder14
+    401096: pCylinder15
+    401098: pCylinder16
+    401100: pCylinder17
+    401102: pCylinder18
+    401104: pCylinder19
+    401106: pCylinder2
+    401108: pCylinder20
+    401110: pCylinder21
+    401112: pCylinder22
+    401114: pCylinder22 1
+    401116: pCylinder23
+    401118: pCylinder23 1
+    401120: pCylinder24
+    401122: pCylinder24 1
+    401124: pCylinder25
+    401126: pCylinder25 1
+    401128: pCylinder27
+    401130: pCylinder28
+    401132: pCylinder3
+    401134: pCylinder4
+    401136: pCylinder5
+    401138: pCylinder6
+    401140: pCylinder7
+    401142: pCylinder8
+    401144: pCylinder9
+    401146: pDisc3
+    401148: pDisc4
+    401150: pDisc5
+    401152: pDisc6
+    401154: pDisc7
+    401156: pPlane1
+    401158: pPlane10
+    401160: pPlane11
+    401162: pPlane12
+    401164: pPlane13
+    401166: pPlane14
+    401168: pPlane5
+    401170: pPlane7
+    401172: pPlane8
+    401174: pPlane9
+    401176: QuickRigCharacter_Ctrl_ChestEndEffector
+    401178: QuickRigCharacter_Ctrl_ChestOriginEffector
+    401180: QuickRigCharacter_Ctrl_Head
+    401182: QuickRigCharacter_Ctrl_HeadEffector
+    401184: QuickRigCharacter_Ctrl_Hips
+    401186: QuickRigCharacter_Ctrl_HipsEffector
+    401188: QuickRigCharacter_Ctrl_LeftAnkleEffector
+    401190: QuickRigCharacter_Ctrl_LeftArm
+    401192: QuickRigCharacter_Ctrl_LeftElbowEffector
+    401194: QuickRigCharacter_Ctrl_LeftFoot
+    401196: QuickRigCharacter_Ctrl_LeftFootEffector
+    401198: QuickRigCharacter_Ctrl_LeftForeArm
+    401200: QuickRigCharacter_Ctrl_LeftHand
+    401202: QuickRigCharacter_Ctrl_LeftHipEffector
+    401204: QuickRigCharacter_Ctrl_LeftKneeEffector
+    401206: QuickRigCharacter_Ctrl_LeftLeg
+    401208: QuickRigCharacter_Ctrl_LeftShoulder
+    401210: QuickRigCharacter_Ctrl_LeftShoulderEffector
+    401212: QuickRigCharacter_Ctrl_LeftToeBase
+    401214: QuickRigCharacter_Ctrl_LeftUpLeg
+    401216: QuickRigCharacter_Ctrl_LeftWristEffector
+    401218: QuickRigCharacter_Ctrl_Neck
+    401220: QuickRigCharacter_Ctrl_Reference
+    401222: QuickRigCharacter_Ctrl_RightAnkleEffector
+    401224: QuickRigCharacter_Ctrl_RightArm
+    401226: QuickRigCharacter_Ctrl_RightElbowEffector
+    401228: QuickRigCharacter_Ctrl_RightFoot
+    401230: QuickRigCharacter_Ctrl_RightFootEffector
+    401232: QuickRigCharacter_Ctrl_RightForeArm
+    401234: QuickRigCharacter_Ctrl_RightHand
+    401236: QuickRigCharacter_Ctrl_RightHipEffector
+    401238: QuickRigCharacter_Ctrl_RightKneeEffector
+    401240: QuickRigCharacter_Ctrl_RightLeg
+    401242: QuickRigCharacter_Ctrl_RightShoulder
+    401244: QuickRigCharacter_Ctrl_RightShoulderEffector
+    401246: QuickRigCharacter_Ctrl_RightToeBase
+    401248: QuickRigCharacter_Ctrl_RightUpLeg
+    401250: QuickRigCharacter_Ctrl_RightWristEffector
+    401252: QuickRigCharacter_Ctrl_Spine
+    401254: QuickRigCharacter_Ctrl_Spine1
+    401256: QuickRigCharacter_Ctrl_Spine2
+    401258: QuickRigCharacter_Guides
+    401260: QuickRigCharacter_Head
+    401262: QuickRigCharacter_Hips
+    401264: QuickRigCharacter_LeftArm
+    401266: QuickRigCharacter_LeftFoot
+    401268: QuickRigCharacter_LeftForeArm
+    401270: QuickRigCharacter_LeftHand
+    401272: QuickRigCharacter_LeftLeg
+    401274: QuickRigCharacter_LeftShoulder
+    401276: QuickRigCharacter_LeftToeBase
+    401278: QuickRigCharacter_LeftUpLeg
+    401280: QuickRigCharacter_Neck
+    401282: QuickRigCharacter_Reference
+    401284: QuickRigCharacter_RightArm
+    401286: QuickRigCharacter_RightFoot
+    401288: QuickRigCharacter_RightForeArm
+    401290: QuickRigCharacter_RightHand
+    401292: QuickRigCharacter_RightLeg
+    401294: QuickRigCharacter_RightShoulder
+    401296: QuickRigCharacter_RightToeBase
+    401298: QuickRigCharacter_RightUpLeg
+    401300: QuickRigCharacter_Spine
+    401302: QuickRigCharacter_Spine1
+    401304: QuickRigCharacter_Spine2
+    401306: Reference
+    401308: RightArm
+    401310: RightFoot
+    401312: RightForeArm
+    401314: RightHand
+    401316: RightLeg
+    401318: RightShoulder
+    401320: RightToeBase
+    401322: RightUpLeg
+    401324: Signs:Nuka_Cherry
+    401326: Signs:Nuka_Cola
+    401328: Spine
+    401330: Spine1
+    401332: Spine2
+    2100000: Glass
+    2100002: Floor1
+    2100004: Walls
+    2100006: Table_Surface
+    2100008: lambert1
+    2100010: Seat_Metal_Silver
+    2100012: Shadow
+    2100014: Kitch_Door
+    2100016: Arcade_Machine_body
+    2100018: Arc
+    2100020: Arcade_Mch_White
+    2100022: phong6
+    2100024: Arcade_Mch_Grey
+    2100026: Seat_Red
+    2100028: phong4
+    2100030: Arcade_Mch_Body_2
+    2100032: Light
+    2100034: Light_Cable
+    2100036: Oven_hOB
+    2100038: Oven_Oven
+    2100040: Oven_hOB_2
+    2100042: Oven_Oven_Window
+    2100044: Oven_Metal
+    2100046: Grill_Buirger_Bun
+    2100048: Grill_Burger1
+    2100050: Grill_Oven
+    2100052: Grill_Grilll1
+    2100054: Charcii_Character_lambert6
+    2100056: Charcii_Character_lambert8
+    2100058: Charcii_Character_lambert5
+    2100060: Charcii_Character_lambert7
+    2100062: Grill_Metal
+    2100064: Grill_Scraper_Handle
+    2100066: Signs_Pink_Neon
+    2100068: Signs_Neon_Red
+    2100070: Guy1_Guy1_Guy_Coat
+    2100072: Guy1_Guy1_Guy_Fluff_Coat
+    2100074: Guy1_Guy1_Guy_Skin
+    2100076: Guy1_Guy1_Guy_Cuffs
+    2100078: Guy1_Guy1_Guy_Shirt
+    2100080: Guy1_Guy1_Guy_Hair
+    2100082: Guy1_Guy1_Guy_Shoes
+    2100084: Guy1_Guy1_Guy_Trousers
+    2100086: City
+    2300000: Floor
+    2300002: Floor2
+    2300004: Grill:Bun_Top1
+    2300006: Grill:Bun_Top2
+    2300008: Grill:Burger10
+    2300010: Grill:Burger11
+    2300012: Grill:Burger6
+    2300014: Grill:Burger7
+    2300016: Grill:Burger8
+    2300018: Grill:Burger9
+    2300020: Grill:pCube1
+    2300022: Grill:pCube2
+    2300024: Oven1
+    2300026: Oven:Oven1
+    2300028: Oven:pCube10
+    2300030: Oven:pCube11
+    2300032: Oven:pCube12
+    2300034: Oven:pCube13
+    2300036: Oven:pCube14
+    2300038: Oven:pCube15
+    2300040: Oven:pCube16
+    2300042: Oven:pCube17
+    2300044: Oven:pCube3
+    2300046: Oven:pCube4
+    2300048: Oven:pCube5
+    2300050: Oven:pCube6
+    2300052: Oven:pCube7
+    2300054: Oven:pCube8
+    2300056: Oven:pCube9
+    2300058: Oven:pDisc3
+    2300060: Oven:pDisc4
+    2300062: Oven:pDisc5
+    2300064: Oven:pDisc6
+    2300066: Oven:pDisc7
+    2300068: Oven:pDisc8
+    2300070: pCube1
+    2300072: pCube1 1
+    2300074: pCube10
+    2300076: pCube11
+    2300078: pCube12
+    2300080: pCube13
+    2300082: pCube14
+    2300084: pCube15
+    2300086: pCube16
+    2300088: pCube17
+    2300090: pCube18
+    2300092: pCube2
+    2300094: pCube3
+    2300096: pCube4
+    2300098: pCube4 1
+    2300100: pCube5
+    2300102: pCube5 1
+    2300104: pCube6
+    2300106: pCube6 1
+    2300108: pCube6 10
+    2300110: pCube6 11
+    2300112: pCube6 12
+    2300114: pCube6 13
+    2300116: pCube6 14
+    2300118: pCube6 15
+    2300120: pCube6 16
+    2300122: pCube6 17
+    2300124: pCube6 18
+    2300126: pCube6 19
+    2300128: pCube6 2
+    2300130: pCube6 20
+    2300132: pCube6 21
+    2300134: pCube6 22
+    2300136: pCube6 23
+    2300138: pCube6 24
+    2300140: pCube6 25
+    2300142: pCube6 26
+    2300144: pCube6 27
+    2300146: pCube6 28
+    2300148: pCube6 29
+    2300150: pCube6 3
+    2300152: pCube6 30
+    2300154: pCube6 31
+    2300156: pCube6 32
+    2300158: pCube6 33
+    2300160: pCube6 34
+    2300162: pCube6 35
+    2300164: pCube6 36
+    2300166: pCube6 37
+    2300168: pCube6 38
+    2300170: pCube6 39
+    2300172: pCube6 4
+    2300174: pCube6 40
+    2300176: pCube6 41
+    2300178: pCube6 42
+    2300180: pCube6 5
+    2300182: pCube6 6
+    2300184: pCube6 7
+    2300186: pCube6 8
+    2300188: pCube6 9
+    2300190: pCube7
+    2300192: pCube7 1
+    2300194: pCube7 10
+    2300196: pCube7 11
+    2300198: pCube7 12
+    2300200: pCube7 13
+    2300202: pCube7 14
+    2300204: pCube7 15
+    2300206: pCube7 16
+    2300208: pCube7 17
+    2300210: pCube7 18
+    2300212: pCube7 19
+    2300214: pCube7 2
+    2300216: pCube7 20
+    2300218: pCube7 21
+    2300220: pCube7 22
+    2300222: pCube7 23
+    2300224: pCube7 24
+    2300226: pCube7 25
+    2300228: pCube7 26
+    2300230: pCube7 27
+    2300232: pCube7 28
+    2300234: pCube7 29
+    2300236: pCube7 3
+    2300238: pCube7 30
+    2300240: pCube7 31
+    2300242: pCube7 32
+    2300244: pCube7 33
+    2300246: pCube7 34
+    2300248: pCube7 35
+    2300250: pCube7 36
+    2300252: pCube7 37
+    2300254: pCube7 38
+    2300256: pCube7 39
+    2300258: pCube7 4
+    2300260: pCube7 40
+    2300262: pCube7 41
+    2300264: pCube7 42
+    2300266: pCube7 5
+    2300268: pCube7 6
+    2300270: pCube7 7
+    2300272: pCube7 8
+    2300274: pCube7 9
+    2300276: pCube8
+    2300278: pCube8 1
+    2300280: pCube8 10
+    2300282: pCube8 11
+    2300284: pCube8 12
+    2300286: pCube8 13
+    2300288: pCube8 14
+    2300290: pCube8 15
+    2300292: pCube8 16
+    2300294: pCube8 17
+    2300296: pCube8 18
+    2300298: pCube8 19
+    2300300: pCube8 2
+    2300302: pCube8 20
+    2300304: pCube8 21
+    2300306: pCube8 3
+    2300308: pCube8 4
+    2300310: pCube8 5
+    2300312: pCube8 6
+    2300314: pCube8 7
+    2300316: pCube8 8
+    2300318: pCube8 9
+    2300320: pCube9
+    2300322: pCube9 1
+    2300324: pCylinder1
+    2300326: pCylinder10
+    2300328: pCylinder11
+    2300330: pCylinder12
+    2300332: pCylinder13
+    2300334: pCylinder14
+    2300336: pCylinder15
+    2300338: pCylinder16
+    2300340: pCylinder17
+    2300342: pCylinder18
+    2300344: pCylinder19
+    2300346: pCylinder2
+    2300348: pCylinder20
+    2300350: pCylinder21
+    2300352: pCylinder22
+    2300354: pCylinder22 1
+    2300356: pCylinder23
+    2300358: pCylinder23 1
+    2300360: pCylinder24
+    2300362: pCylinder24 1
+    2300364: pCylinder25
+    2300366: pCylinder25 1
+    2300368: pCylinder27
+    2300370: pCylinder28
+    2300372: pCylinder3
+    2300374: pCylinder4
+    2300376: pCylinder5
+    2300378: pCylinder6
+    2300380: pCylinder7
+    2300382: pCylinder8
+    2300384: pCylinder9
+    2300386: pDisc3
+    2300388: pDisc4
+    2300390: pDisc5
+    2300392: pDisc6
+    2300394: pDisc7
+    2300396: pPlane1
+    2300398: pPlane10
+    2300400: pPlane11
+    2300402: pPlane12
+    2300404: pPlane13
+    2300406: pPlane14
+    2300408: pPlane5
+    2300410: pPlane7
+    2300412: pPlane8
+    2300414: pPlane9
+    2300416: Signs:Nuka_Cherry
+    2300418: Signs:Nuka_Cola
+    3300000: Floor
+    3300002: Floor2
+    3300004: Grill:Bun_Top1
+    3300006: Grill:Bun_Top2
+    3300008: Grill:Burger10
+    3300010: Grill:Burger11
+    3300012: Grill:Burger6
+    3300014: Grill:Burger7
+    3300016: Grill:Burger8
+    3300018: Grill:Burger9
+    3300020: Grill:pCube1
+    3300022: Grill:pCube2
+    3300024: Oven1
+    3300026: Oven:Oven1
+    3300028: Oven:pCube10
+    3300030: Oven:pCube11
+    3300032: Oven:pCube12
+    3300034: Oven:pCube13
+    3300036: Oven:pCube14
+    3300038: Oven:pCube15
+    3300040: Oven:pCube16
+    3300042: Oven:pCube17
+    3300044: Oven:pCube3
+    3300046: Oven:pCube4
+    3300048: Oven:pCube5
+    3300050: Oven:pCube6
+    3300052: Oven:pCube7
+    3300054: Oven:pCube8
+    3300056: Oven:pCube9
+    3300058: Oven:pDisc3
+    3300060: Oven:pDisc4
+    3300062: Oven:pDisc5
+    3300064: Oven:pDisc6
+    3300066: Oven:pDisc7
+    3300068: Oven:pDisc8
+    3300070: pCube1
+    3300072: pCube1 1
+    3300074: pCube10
+    3300076: pCube11
+    3300078: pCube12
+    3300080: pCube13
+    3300082: pCube14
+    3300084: pCube15
+    3300086: pCube16
+    3300088: pCube17
+    3300090: pCube18
+    3300092: pCube2
+    3300094: pCube3
+    3300096: pCube4
+    3300098: pCube4 1
+    3300100: pCube5
+    3300102: pCube5 1
+    3300104: pCube6
+    3300106: pCube6 1
+    3300108: pCube6 10
+    3300110: pCube6 11
+    3300112: pCube6 12
+    3300114: pCube6 13
+    3300116: pCube6 14
+    3300118: pCube6 15
+    3300120: pCube6 16
+    3300122: pCube6 17
+    3300124: pCube6 18
+    3300126: pCube6 19
+    3300128: pCube6 2
+    3300130: pCube6 20
+    3300132: pCube6 21
+    3300134: pCube6 22
+    3300136: pCube6 23
+    3300138: pCube6 24
+    3300140: pCube6 25
+    3300142: pCube6 26
+    3300144: pCube6 27
+    3300146: pCube6 28
+    3300148: pCube6 29
+    3300150: pCube6 3
+    3300152: pCube6 30
+    3300154: pCube6 31
+    3300156: pCube6 32
+    3300158: pCube6 33
+    3300160: pCube6 34
+    3300162: pCube6 35
+    3300164: pCube6 36
+    3300166: pCube6 37
+    3300168: pCube6 38
+    3300170: pCube6 39
+    3300172: pCube6 4
+    3300174: pCube6 40
+    3300176: pCube6 41
+    3300178: pCube6 42
+    3300180: pCube6 5
+    3300182: pCube6 6
+    3300184: pCube6 7
+    3300186: pCube6 8
+    3300188: pCube6 9
+    3300190: pCube7
+    3300192: pCube7 1
+    3300194: pCube7 10
+    3300196: pCube7 11
+    3300198: pCube7 12
+    3300200: pCube7 13
+    3300202: pCube7 14
+    3300204: pCube7 15
+    3300206: pCube7 16
+    3300208: pCube7 17
+    3300210: pCube7 18
+    3300212: pCube7 19
+    3300214: pCube7 2
+    3300216: pCube7 20
+    3300218: pCube7 21
+    3300220: pCube7 22
+    3300222: pCube7 23
+    3300224: pCube7 24
+    3300226: pCube7 25
+    3300228: pCube7 26
+    3300230: pCube7 27
+    3300232: pCube7 28
+    3300234: pCube7 29
+    3300236: pCube7 3
+    3300238: pCube7 30
+    3300240: pCube7 31
+    3300242: pCube7 32
+    3300244: pCube7 33
+    3300246: pCube7 34
+    3300248: pCube7 35
+    3300250: pCube7 36
+    3300252: pCube7 37
+    3300254: pCube7 38
+    3300256: pCube7 39
+    3300258: pCube7 4
+    3300260: pCube7 40
+    3300262: pCube7 41
+    3300264: pCube7 42
+    3300266: pCube7 5
+    3300268: pCube7 6
+    3300270: pCube7 7
+    3300272: pCube7 8
+    3300274: pCube7 9
+    3300276: pCube8
+    3300278: pCube8 1
+    3300280: pCube8 10
+    3300282: pCube8 11
+    3300284: pCube8 12
+    3300286: pCube8 13
+    3300288: pCube8 14
+    3300290: pCube8 15
+    3300292: pCube8 16
+    3300294: pCube8 17
+    3300296: pCube8 18
+    3300298: pCube8 19
+    3300300: pCube8 2
+    3300302: pCube8 20
+    3300304: pCube8 21
+    3300306: pCube8 3
+    3300308: pCube8 4
+    3300310: pCube8 5
+    3300312: pCube8 6
+    3300314: pCube8 7
+    3300316: pCube8 8
+    3300318: pCube8 9
+    3300320: pCube9
+    3300322: pCube9 1
+    3300324: pCylinder1
+    3300326: pCylinder10
+    3300328: pCylinder11
+    3300330: pCylinder12
+    3300332: pCylinder13
+    3300334: pCylinder14
+    3300336: pCylinder15
+    3300338: pCylinder16
+    3300340: pCylinder17
+    3300342: pCylinder18
+    3300344: pCylinder19
+    3300346: pCylinder2
+    3300348: pCylinder20
+    3300350: pCylinder21
+    3300352: pCylinder22
+    3300354: pCylinder22 1
+    3300356: pCylinder23
+    3300358: pCylinder23 1
+    3300360: pCylinder24
+    3300362: pCylinder24 1
+    3300364: pCylinder25
+    3300366: pCylinder25 1
+    3300368: pCylinder27
+    3300370: pCylinder28
+    3300372: pCylinder3
+    3300374: pCylinder4
+    3300376: pCylinder5
+    3300378: pCylinder6
+    3300380: pCylinder7
+    3300382: pCylinder8
+    3300384: pCylinder9
+    3300386: pDisc3
+    3300388: pDisc4
+    3300390: pDisc5
+    3300392: pDisc6
+    3300394: pDisc7
+    3300396: pPlane1
+    3300398: pPlane10
+    3300400: pPlane11
+    3300402: pPlane12
+    3300404: pPlane13
+    3300406: pPlane14
+    3300408: pPlane5
+    3300410: pPlane7
+    3300412: pPlane8
+    3300414: pPlane9
+    3300416: Signs:Nuka_Cherry
+    3300418: Signs:Nuka_Cola
+    4300000: pPlane1
+    4300002: Floor
+    4300004: pPlane5
+    4300006: pCube1
+    4300008: pCube2
+    4300010: pPlane7
+    4300012: pCube4
+    4300014: pCylinder1
+    4300016: pCylinder2
+    4300018: pCylinder3
+    4300020: pPlane8
+    4300022: pCube5
+    4300024: pCylinder4
+    4300026: pCylinder5
+    4300028: pCylinder6
+    4300030: pCylinder7
+    4300032: pCylinder8
+    4300034: pCylinder9
+    4300036: pCylinder10
+    4300038: pCylinder11
+    4300040: pCylinder12
+    4300042: pCylinder13
+    4300044: pCylinder14
+    4300046: pCylinder15
+    4300048: pCylinder16
+    4300050: pCube6
+    4300052: pCube7
+    4300054: pCube6
+    4300056: pCube7
+    4300058: pCube8
+    4300060: pCube6
+    4300062: pCube7
+    4300064: pCube6
+    4300066: pCube7
+    4300068: pCube8
+    4300070: pCube6
+    4300072: pCube7
+    4300074: pCube6
+    4300076: pCube7
+    4300078: pCube8
+    4300080: pCube6
+    4300082: pCube7
+    4300084: pCube6
+    4300086: pCube7
+    4300088: pCube8
+    4300090: pCube6
+    4300092: pCube7
+    4300094: pCube6
+    4300096: pCube7
+    4300098: pCube8
+    4300100: pCube6
+    4300102: pCube7
+    4300104: pCube6
+    4300106: pCube7
+    4300108: pCube8
+    4300110: pCube6
+    4300112: pCube7
+    4300114: pCube6
+    4300116: pCube7
+    4300118: pCube8
+    4300120: pCube6
+    4300122: pCube7
+    4300124: pCube6
+    4300126: pCube7
+    4300128: pCube8
+    4300130: pCube6
+    4300132: pCube7
+    4300134: pCube6
+    4300136: pCube7
+    4300138: pCube8
+    4300140: pCube6
+    4300142: pCube7
+    4300144: pCube6
+    4300146: pCube7
+    4300148: pCube8
+    4300150: pCube6
+    4300152: pCube7
+    4300154: pCube6
+    4300156: pCube7
+    4300158: pCube8
+    4300160: pCube6
+    4300162: pCube7
+    4300164: pCube6
+    4300166: pCube7
+    4300168: pCube8
+    4300170: pCube6
+    4300172: pCube7
+    4300174: pCube6
+    4300176: pCube7
+    4300178: pCube8
+    4300180: pCube6
+    4300182: pCube7
+    4300184: pCube6
+    4300186: pCube7
+    4300188: pCube8
+    4300190: pCube6
+    4300192: pCube7
+    4300194: pCube6
+    4300196: pCube7
+    4300198: pCube8
+    4300200: pCube6
+    4300202: pCube7
+    4300204: pCube6
+    4300206: pCube7
+    4300208: pCube8
+    4300210: pCube6
+    4300212: pCube7
+    4300214: pCube6
+    4300216: pCube7
+    4300218: pCube8
+    4300220: pCube6
+    4300222: pCube7
+    4300224: pCube6
+    4300226: pCube7
+    4300228: pCube8
+    4300230: pCube6
+    4300232: pCube7
+    4300234: pCube6
+    4300236: pCube7
+    4300238: pCube8
+    4300240: pCube6
+    4300242: pCube7
+    4300244: pCube6
+    4300246: pCube7
+    4300248: pCube8
+    4300250: pCube6
+    4300252: pCube7
+    4300254: pCube6
+    4300256: pCube7
+    4300258: pCube8
+    4300260: pCube9
+    4300262: pCylinder17
+    4300264: Oven:pCube12
+    4300266: Oven:pCube13
+    4300268: Oven:pCube14
+    4300270: Oven:pCube10
+    4300272: Oven:pCube11
+    4300274: Oven:pCube5
+    4300276: Oven:pCube9
+    4300278: Oven:pCube3
+    4300280: Oven:pCube16
+    4300282: Oven:pCube17
+    4300284: Oven:pDisc7
+    4300286: Oven:pCube4
+    4300288: Oven:pCube8
+    4300290: Oven:pCube7
+    4300292: Oven:pDisc6
+    4300294: Oven:Oven1
+    4300296: Oven:pDisc5
+    4300298: Oven:pCube6
+    4300300: Oven:pCube15
+    4300302: Oven:pDisc8
+    4300304: Oven:pDisc3
+    4300306: Oven:pDisc4
+    4300308: pCube12
+    4300310: pCube13
+    4300312: pCube14
+    4300314: pCube10
+    4300316: pCube11
+    4300318: pCube5
+    4300320: pCube9
+    4300322: pCube3
+    4300324: pCube16
+    4300326: pCube17
+    4300328: pDisc7
+    4300330: pCube4
+    4300332: pCube8
+    4300334: pCube7
+    4300336: pDisc6
+    4300338: Oven1
+    4300340: pDisc5
+    4300342: pCube6
+    4300344: pCube15
+    4300346: pDisc3
+    4300348: pDisc4
+    4300350: Grill:Bun_Top2
+    4300352: Grill:Bun_Top1
+    4300354: Grill:Burger11
+    4300356: Grill:Burger6
+    4300358: Grill:Burger8
+    4300360: Grill:Burger7
+    4300362: Grill:Burger9
+    4300364: Grill:Burger10
+    4300366: Grill:pCube1
+    4300368: pCube1
+    4300370: Charcii:Character:pCube5
+    4300372: Charcii:Character:pCube3
+    4300374: Grill:pCube2
+    4300376: Signs:Nuka_Cherry
+    4300378: Signs:Nuka_Cola
+    4300380: pPlane9
+    4300382: pCylinder18
+    4300384: pCylinder19
+    4300386: pCylinder20
+    4300388: pCylinder21
+    4300390: pCylinder25
+    4300392: pCylinder24
+    4300394: pCylinder23
+    4300396: pCylinder22
+    4300398: pCylinder25
+    4300400: pCylinder24
+    4300402: pCylinder23
+    4300404: pCylinder22
+    4300406: pCylinder27
+    4300408: pCylinder28
+    4300410: Floor2
+    4300412: Guy1:Guy1:Guy
+    4300414: pCube18
+    4300416: pPlane10
+    4300418: pPlane11
+    4300420: pPlane12
+    4300422: pPlane13
+    4300424: pPlane14
+    9500000: //RootNode
+    13700000: Charcii:Character:pCube3
+    13700002: Charcii:Character:pCube5
+    13700004: Guy1:Guy1:Guy
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
