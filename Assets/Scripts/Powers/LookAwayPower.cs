@@ -6,6 +6,10 @@ public class LookAwayPower : BasePower
 {
     public Camera Camera;
 
+    public override string Name { get; set; } = "Distract 1";
+    public override float UseCost { get; set; } = 5;
+    public override float RechargeAmount { get; set; } = 10;
+
     private void Awake()
     {
         Camera = FindObjectOfType<Interactor>().GetComponent<Camera>();
@@ -24,6 +28,8 @@ public class LookAwayPower : BasePower
 
         Debug.Log("Hit customer");
         customer.LookAwayFromPlate();
+
+        UseCharge();
     }
 
     public Customer LookForCustomer()

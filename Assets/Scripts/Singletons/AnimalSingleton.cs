@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class AnimalSingleton : Singleton<AnimalSingleton>
 {
+    public UnityEventFor<float> OnAnimalPercentageChange = new UnityEventFor<float>();
+
     public float AnimalPercentage { get; set; }
     
     public void Increase()
@@ -14,5 +16,7 @@ public class AnimalSingleton : Singleton<AnimalSingleton>
         {
             //TODO: Fire an event that we have enough meats!
         }
+
+        OnAnimalPercentageChange.Invoke(AnimalPercentage);
     }
 }
